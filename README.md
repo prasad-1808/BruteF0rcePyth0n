@@ -16,3 +16,12 @@ Running the script:
 
 The username.txt and password.txt can be modified but make sure the files are in the same directory or declare the address of the files properly.
 
+
+I have attached some of the username and password list that contains a huge amount of data.
+These files can be cloned and modified with the runnable script
+
+        Common Username: https://github.com/danielmiessler/SecLists/tree/master/Usernames/Names
+        Common Password: https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
+
+Using huge amounts of data on a local device can cause lag in the system. 
+Use with Cause.
